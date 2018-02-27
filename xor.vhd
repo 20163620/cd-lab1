@@ -1,4 +1,5 @@
 -- File: xor.vhd
+git config --global user.name "Andzej Kuldos"
 library ieee;
 use ieee.std_logic_1164.all;
 
